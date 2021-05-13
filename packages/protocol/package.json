@@ -16,7 +16,7 @@
     "openzeppelin-solidity": "^2.4.0"
   },
   "devDependencies": {
-    "@0x/sol-coverage": "^3.0.0",
+    "@0x/sol-coverage": "^4.0.37",
     "@0x/sol-profiler": "^3.1.2",
     "@0x/sol-trace": "^2.0.8",
     "@0x/subproviders": "^5.0.1",
