@@ -4,7 +4,7 @@
   "author": "AZTEC",
   "devDependencies": {
     "bluebird": "^3.5.3",
-    "eslint": "^5.15.3",
+    "eslint": "^7.30.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-import": "^2.16.0",

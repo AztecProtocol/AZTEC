@@ -90,7 +90,7 @@
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-polyfill": "^6.26.0",
     "dotenv": "^8.2.0",
-    "eslint": "^5.15.3",
+    "eslint": "^7.30.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-import-resolver-alias": "^1.1.2",
     "eslint-import-resolver-babel-module": "^5.0.1",

@@ -32,7 +32,7 @@
     "braintree-jsdoc-template": "^3.3.0",
     "chai": "^4.2.0",
     "electron": "^7.0.0",
-    "eslint": "^5.15.3",
+    "eslint": "^7.30.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-loader": "^3.0.0",
